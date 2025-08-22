@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Vikashini-1417/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Vikashini-1417/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Vikashini-1417/Leetcode/tree/master/0392-is-subsequence) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vikashini-1417/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -55,5 +56,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Vikashini-1417/Leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Vikashini-1417/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
