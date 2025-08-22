@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikashini-1417/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Vikashini-1417/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Vikashini-1417/Leetcode/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
@@ -65,4 +66,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vikashini-1417/Leetcode/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/Vikashini-1417/Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
