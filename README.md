@@ -33,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikashini-1417/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Vikashini-1417/Leetcode/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Vikashini-1417/Leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Vikashini-1417/Leetcode/tree/master/0392-is-subsequence) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vikashini-1417/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vikashini-1417/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Vikashini-1417/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
