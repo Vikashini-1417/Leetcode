@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Vikashini-1417/Leetcode/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikashini-1417/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Vikashini-1417/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Vikashini-1417/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Vikashini-1417/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Vikashini-1417/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Vikashini-1417/Leetcode/tree/master/0283-move-zeroes) |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Vikashini-1417/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vikashini-1417/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Vikashini-1417/Leetcode/tree/master/0392-is-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Vikashini-1417/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
