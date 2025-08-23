@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vikashini-1417/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Vikashini-1417/Leetcode/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/Vikashini-1417/Leetcode/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikashini-1417/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vikashini-1417/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Vikashini-1417/Leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Vikashini-1417/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Vikashini-1417/Leetcode/tree/master/0169-majority-element) |
