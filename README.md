@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Vikashini-1417/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Vikashini-1417/Leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Vikashini-1417/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Vikashini-1417/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vikashini-1417/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vikashini-1417/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Vikashini-1417/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Union Find
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vikashini-1417/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Vikashini-1417/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
