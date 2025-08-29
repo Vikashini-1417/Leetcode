@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vikashini-1417/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Vikashini-1417/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Vikashini-1417/Leetcode/tree/master/0189-rotate-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Vikashini-1417/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Vikashini-1417/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vikashini-1417/Leetcode/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Vikashini-1417/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
