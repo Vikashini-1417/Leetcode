@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vikashini-1417/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vikashini-1417/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Vikashini-1417/Leetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Vikashini-1417/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Vikashini-1417/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Vikashini-1417/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Vikashini-1417/Leetcode/tree/master/0053-maximum-subarray) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Vikashini-1417/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vikashini-1417/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vikashini-1417/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/Vikashini-1417/Leetcode/tree/master/0493-reverse-pairs) |
