@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vikashini-1417/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Vikashini-1417/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Vikashini-1417/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vikashini-1417/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Vikashini-1417/Leetcode/tree/master/0493-reverse-pairs) |
 ## Sorting
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vikashini-1417/Leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Vikashini-1417/Leetcode/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/Vikashini-1417/Leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Vikashini-1417/Leetcode/tree/master/0338-counting-bits) |
 ## Binary Search
