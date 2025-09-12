@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Vikashini-1417/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Vikashini-1417/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Vikashini-1417/Leetcode/tree/master/0189-rotate-array) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Vikashini-1417/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Vikashini-1417/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Vikashini-1417/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Greedy
